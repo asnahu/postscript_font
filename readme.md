@@ -153,7 +153,7 @@ glyph[1000] {1000,5,1,
 % Begin path
 newpath
 
-% First part of the glyph
+% First part of the glyph 第一部分
 330.00 483.00 moveto
 327.00 416.00 327.00 406.00 322.00 336.00 curveto
 248.00 321.00 lineto
@@ -204,7 +204,7 @@ newpath
 227.00 462.00 254.00 468.00 289.00 475.00 curveto
 closepath
 
-% Second part of the glyph
+% Second part of the glyph 第二部分
 651.00 306.00 moveto
 554.00 294.00 lineto
 512.00 289.00 lineto
