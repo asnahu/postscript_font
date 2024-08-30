@@ -292,3 +292,9 @@ stroke
 
 showpage
 ```
+
+## references
+
+[Learning PostScript by Doing, Andre´ Heck](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
+
+[Claude AI](https://claude.ai/chat/3984b7bf-e2b4-4671-a7d3-cff110f128fd)
